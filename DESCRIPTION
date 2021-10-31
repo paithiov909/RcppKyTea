@@ -8,8 +8,7 @@ Authors@R: c(
     person("KyTea Development Team", "", role = c("cph")))
 Maintainer: Akiru Kato <paithiov909@gmail.com>
 Description: 'RcppKyTea' just tokenizes a character vector into tokens
-    (a list of character vector). That's all.
-    This package does not provide interface to APIs for training models.
+    (a list of character vector). This package does not provide interface to APIs for training models.
 License: MIT + file LICENSE
 LinkingTo:
     Rcpp,

@@ -6,7 +6,7 @@
 
 > 'Rcpp' Interface to 'KyTea'
 
-'RcppKyTea' just tokenizes a character vector into tokens (a list of character vector). That's all. This package does not provide interface to APIs for training models.
+'RcppKyTea' just tokenizes a character vector into tokens (a list of character vector)...that's all. This package does not provide interface to APIs for training models.
 
 ## Usage
 
