@@ -1,0 +1,21 @@
+Package: RcppKyTea
+Type: Package
+Title: 'Rcpp' Interface to 'KyTea'
+Version: 0.0.1
+Authors@R: c(
+    person("Akiru", "Kato", email = "paithiov909@gmail.com", role = c("aut", "cre")),
+    person("The LIBLINEAR Project", "", role = c("cph")),
+    person("KyTea Development Team", "", role = c("cph")))
+Maintainer: Akiru Kato <paithiov909@gmail.com>
+Description: 'RcppKyTea' just tokenizes a character vector into tokens
+    (a list of character vector). That's all.
+    This package does not provide interface to APIs for training models.
+License: MIT + file LICENSE
+LinkingTo:
+    Rcpp,
+    RcppThread
+Imports:
+    Rcpp
+SystemRequirements: GNU make, C++11
+Encoding: UTF-8
+RoxygenNote: 7.1.2
