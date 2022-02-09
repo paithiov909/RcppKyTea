@@ -25,7 +25,4 @@ RcppKyTea::tokenize("これはテストです")
 
 ## License
 
-MIT license.
-
-This package includes works that are distributed under the Apache License, Version 2.0.
-
+Apache License, Version 2.0
